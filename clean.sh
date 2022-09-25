@@ -1,0 +1,1 @@
+./PackSquash-*.AppImage settings.toml
